@@ -9,4 +9,6 @@ A-SOUL是乐华娱乐于2020年11月23日公开的其旗下首个虚拟偶像团
 
 A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能为载体。  
 以“更快更好地帮助二创作者进行切片、二创”为宗旨。创办的数据归档类网站。    
-更多关于仓库的信息,请移步 [主仓库](https://github.com/A-Soul-Database/A-Soul-Database)  
+  
+# 更多关于仓库的信息,请移步 [主仓库](https://github.com/A-Soul-Database/A-Soul-Database)  
+# [该项目的介绍视频](https://space.bilibili.com/19964039/channel/collectiondetail?sid=124510)
