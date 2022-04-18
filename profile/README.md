@@ -3,6 +3,8 @@
 A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能为载体。  
 以“更快更好地帮助二创作者进行切片、二创”为宗旨。创办的数据归档类网站。    
 
+<iframe src="asdb.live" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## To Do
  - [ ] Source Sync 多源协同
  - [ ] Auto Update For Photo Search 图片搜索自动源更新
