@@ -12,4 +12,4 @@ A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能�
  - [ ] Purify Fonter 前端的改进
 
 ## Social
-![@P_P_P_P_P (Main_Dev) ](https://i2.hdslb.com/bfs/face/2711a8d6cf4e05945e20c3ececcab2e660c3471f.jpg) ![@第一次rp纯路人 (Fronter) ](https://i0.hdslb.com/bfs/face/1e5c606a9f9c1db1a5d55a8ee92f2bfd1e498d68.jpg)  
+(Feedback)[mailto:feedback@asdb.live]
