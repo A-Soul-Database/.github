@@ -3,8 +3,8 @@
 A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能为载体。  
 以“更快更好地帮助二创作者进行切片、二创”为宗旨。创办的数据归档类网站。    
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-  <source id="mp4" src="http://gslb.miaopai.com/stream/PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " type="video/mp4">
+<video id="video" controls="" preload="none">
+  <source id="mp4" src="https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/89/68/390656889/390656889-1-208.mp4?e=ig8euxZM2rNcNbhBnwdVhwdlhzU3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1650301847&gen=playurlv2&os=cosbv&oi=731537184&trid=0ba96d07d5664667ac28df5e46859dbfT&platform=html5&upsig=d858997728b1fdd83b41883212381a72&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&mid=0&bvc=vod&nettype=0&bw=358823&orderid=0,1&logo=80000000" type="video/mp4">
 </video>
 
 ## To Do
