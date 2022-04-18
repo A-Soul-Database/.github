@@ -3,7 +3,7 @@
 A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能为载体。  
 以“更快更好地帮助二创作者进行切片、二创”为宗旨。创办的数据归档类网站。  
 
-<iframe src="//player.bilibili.com/player.html?aid=462377245&bvid=BV1xL411J7Y4&cid=390656889&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## To Do
  - [ ] Source Sync 多源协同
