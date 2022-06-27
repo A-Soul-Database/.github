@@ -11,10 +11,10 @@ A-SOUL Database 主要以直播内容归档,字幕识别,图片搜索等功能�
 
 ## To Do
  - [ ] Source Sync 多源协同
- - [ ] Auto Update For Photo Search 图片搜索自动源更新
+ - [-] Auto Update For Photo Search 图片搜索自动源更新
  - [ ] Basic Workflow 初级工作流
  - [ ] Asdb Webhook Asdb提供的Webhook Api
- - [ ] Icons 绘制图标
+ - [-] Icons 绘制图标
  - [ ] Purify Fonter 前端的改进
 
 ## Social
